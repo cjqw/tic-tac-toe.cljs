@@ -1,10 +1,12 @@
 # tictactoe
 
-FIXME: Write a one-line description of your library/project.
+My first trial on front end.
+
+Thanks to Timothy Pratley.
 
 ## Overview
 
-FIXME: Write a paragraph about the library/project and highlight its goals.
+A simple tic-tac-toe game.
 
 ## Setup
 
@@ -34,6 +36,6 @@ get live reloading, nor a REPL.
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 cjqw
 
 Distributed under the Eclipse Public License either version 1.0 or (at your option) any later version.
