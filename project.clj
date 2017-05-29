@@ -44,7 +44,7 @@
                ;; lein cljsbuild once min
                {:id "min"
                 :source-paths ["src"]
-                :compiler {:output-to "resources/public/js/compiled/tictactoe.js"
+                :compiler {:output-to "tic-tac-toe-page/js/compiled/tictactoe.js"
                            :main tictactoe.core
                            :optimizations :advanced
                            :pretty-print false}}]}
